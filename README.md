@@ -10,7 +10,6 @@ I worked as the CTO of this project and was responsible for developing the front
 
 ## To - do
 
-
 - [x] Added skeleton for team
 - [x] Added video section
-- [ ] Redesign Footer
+- [x] Redesign Footer
